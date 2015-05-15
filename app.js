@@ -1,8 +1,5 @@
-var bancha = require('../core.js/index.js');
+var bancha = require('bancha');
 
-bancha({
-  port: 3000
-})
-.start(function () {
+bancha().start(function () {
   console.log('Server started');
 });
