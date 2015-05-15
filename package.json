@@ -15,5 +15,9 @@
   "engines": {
     "node": "0.12.x"
   },
-  "keywords": ["bancha", "cms", "node", "express"]
+  "keywords": ["bancha", "cms", "node", "express"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squallstar/bancha.js-boilerplate.git"
+  }
 }
