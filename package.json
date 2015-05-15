@@ -1,0 +1,19 @@
+{
+  "name": "bancha.js-boilerplate",
+  "version": "0.0.1",
+  "description": "A barebones Node.js app using Bancha.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Valbusa <squallstar@gmail.com> (http://nicholas.valbusa.me)",
+  "license": "ISC",
+  "dependencies": {
+    "bancha": "^0.0.10"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "keywords": ["bancha", "cms", "node", "express"]
+}

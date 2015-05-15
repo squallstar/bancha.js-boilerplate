@@ -1,0 +1,7 @@
+{
+  "name": "Bancha.js Boilerplate",
+  "description": "A barebones Node.js app using Bancha.js",
+  "repository": "https://github.com/squallstar/bancha.js-boilerplate",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["bancha", "cms", "node", "express"]
+}
